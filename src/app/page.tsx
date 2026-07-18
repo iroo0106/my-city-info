@@ -83,7 +83,7 @@ export default async function Home() {
               {events.map((item) => (
                 <Link
                   key={item.id}
-                  href={`/info/${item.id}/`}
+                  href="/blog"
                   className="bg-white rounded-xl shadow-sm border border-stone-100 p-5 hover:shadow-md hover:border-amber-200 transition-all flex flex-col justify-between block group cursor-pointer"
                 >
                   <div>
@@ -134,7 +134,7 @@ export default async function Home() {
               {benefits.map((item) => (
                 <Link
                   key={item.id}
-                  href={`/info/${item.id}/`}
+                  href="/blog"
                   className="bg-white rounded-xl shadow-sm border border-stone-100 p-5 hover:shadow-md hover:border-emerald-200 transition-all flex flex-col justify-between block group cursor-pointer"
                 >
                   <div>
