@@ -53,5 +53,27 @@
     "target": "경기도에 출생 등록한 부 또는 모",
     "summary": "출산 가정의 경제적 부담을 덜어주기 위해 경기도에서 첫째 아이 출생 시 100만 원, 둘째 아이 출생 시 150만 원의 축하금을 지급합니다.",
     "link": "#"
+  },
+  {
+    "id": 1,
+    "name": "유아학비 (누리과정) 지원",
+    "category": "혜택",
+    "startDate": "2026-07-23",
+    "endDate": "상시",
+    "location": "읍면동 주민센터 및 복지로(www.bokjiro.go.kr)",
+    "target": "국공립유치원 및 사립유치원에 다니는 만 3~5세 아동",
+    "summary": "유치원에 다니는 3~5세 아동에게 유아학비, 방과후과정비 등 지원",
+    "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/000000465790"
+  },
+  {
+    "id": 2,
+    "name": "근로·자녀장려금",
+    "category": "혜택",
+    "startDate": "2026-07-23",
+    "endDate": "상시",
+    "location": "국세청",
+    "target": "소득과 재산 요건을 충족하는 근로·사업·종교인 소득이 있는 가구",
+    "summary": "소득과 재산이 적은 가구에 근로장려금 및 자녀장려금 지급",
+    "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/105100000001"
   }
 ]
